@@ -1,0 +1,13 @@
+#grid{
+    width:546px;
+    height:546px;
+    
+    display:flex;
+    flex-wrap:wrap;
+}
+#grid div{
+    width:180px;
+    height:180px;
+    border:1px solid black;
+    font-size: 100px;
+}
